@@ -1,0 +1,2 @@
+Ekodeck Deck Planner v1.0.23
+DIY PDF export corrections: page-1 breaker-board note, capitalised QuickFix Clip labels, horizontal Standard Clip symbols, visible breaker-board ladders, and duplicate Material Summary page removed.

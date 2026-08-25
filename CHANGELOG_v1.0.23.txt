@@ -1,0 +1,21 @@
+Ekodeck Deck Planner v1.0.23 - DIY PDF Export Corrections
+
+1. Page 1
+   - Added under PLAN LEGEND: *Note : Breaker boards are regular decking boards.*
+
+2. Page 2
+   - Changed Standard QuickFix clip -> Standard QuickFix Clip.
+   - Changed Locking QuickFix clip -> Locking QuickFix Clip.
+   - Standard clip symbols in the rendered QuickFix plan are now horizontal.
+
+3. Page 3
+   - Breaker-board framing now renders as a clear two-rail ladder with cross-rungs.
+   - Uses the same visual ladder treatment as picture-frame support ladders.
+
+4. PDF page structure
+   - Removed the duplicate Material Summary page.
+   - Product & Price Summary is now Page 4 of 4.
+
+Deployment
+   - Replace the deployed index.html and keep the existing assets folder structure.
+   - worker.js is included unchanged. No Worker redeploy is required solely for these PDF layout changes if the current worker is already deployed.
